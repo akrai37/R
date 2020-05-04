@@ -1,2 +1,2 @@
 # R
-Learning R Programminng language
+Learning R Programming language
